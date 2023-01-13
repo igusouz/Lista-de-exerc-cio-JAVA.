@@ -1,3 +1,6 @@
+/* 4. Faça um programa que leia do teclado três valores inteiros e exiba o maior e
+menor entre eles. */
+
 import java.util.Scanner;
 
 public class exerc4 
