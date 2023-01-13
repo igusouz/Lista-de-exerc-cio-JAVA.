@@ -1,3 +1,6 @@
+/* 6. Calcule o consumo médio de um automóvel sendo fornecidos a distância total
+percorrida (em km) e o total de combustível gasto (em litros). */
+
 import java.util.Scanner;
 
 public class exerc6
