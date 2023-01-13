@@ -1,3 +1,6 @@
+/* 9. Faça um programa que receba via teclado o tempo de duração de um evento em
+uma fábrica em uma a variável do tipo inteira (int) expressa em segundos e mostre-o
+expresso em horas, minutos e segundos. */
 import java.util.Scanner;
 
 public class exerc9 
