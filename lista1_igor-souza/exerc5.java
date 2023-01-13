@@ -1,3 +1,6 @@
+/* 5. Faça um programa que leia do teclado três valores inteiros e exiba-os em ordem
+crescente. */
+
 import java.util.Scanner;
 
 public class exerc5 
